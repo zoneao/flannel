@@ -1,0 +1,1 @@
+FROM flannel/flannel:v0.28.1
